@@ -1,0 +1,648 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Y",
+				"Y_pred"
+			],
+			[
+				"D",
+				"Diff"
+			],
+			[
+				"M",
+				"M_PI"
+			],
+			[
+				"load",
+				"loadata"
+			],
+			[
+				"re",
+				"request_data"
+			],
+			[
+				"req",
+				"requesr"
+			],
+			[
+				"signal",
+				"signal_mms1"
+			],
+			[
+				"die",
+				"dietz_court"
+			],
+			[
+				"vali",
+				"valid_laundries"
+			],
+			[
+				"square",
+				"square_feet"
+			],
+			[
+				"s",
+				"square_feet"
+			],
+			[
+				"note",
+				"notebook"
+			],
+			[
+				"signal_st",
+				"signal_stochastique1"
+			],
+			[
+				"signal_ma",
+				"signal_macd1"
+			],
+			[
+				"pmv",
+				"pmval"
+			],
+			[
+				"pm",
+				"PMV"
+			],
+			[
+				"PMV",
+				"PMV_lat"
+			],
+			[
+				"nvi",
+				"nvis"
+			],
+			[
+				"NVI",
+				"NVIsignal"
+			],
+			[
+				"ra",
+				"rate_of_change"
+			],
+			[
+				"OBS",
+				"obvsignal"
+			],
+			[
+				"ax",
+				"ax2"
+			],
+			[
+				"BB",
+				"BBUP"
+			],
+			[
+				"SI",
+				"signal"
+			],
+			[
+				"si",
+				"signal_achat"
+			],
+			[
+				"sig",
+				"signal"
+			],
+			[
+				"com",
+				"compa_achat"
+			],
+			[
+				"MAC",
+				"MACDsign"
+			],
+			[
+				"MM",
+				"MMS_LONG"
+			],
+			[
+				"mm",
+				"MMS_LONG"
+			],
+			[
+				"MMS",
+				"MMS_COURT"
+			],
+			[
+				"Cour",
+				"COURS_CLOTURE"
+			],
+			[
+				"SIGA",
+				"Signal"
+			],
+			[
+				"cou",
+				"COURS_CLOTURE"
+			],
+			[
+				"in",
+				"index"
+			],
+			[
+				"le",
+				"legend"
+			],
+			[
+				"obv",
+				"obvsignal"
+			],
+			[
+				"ro",
+				"rolling"
+			],
+			[
+				"ob",
+				"obv"
+			],
+			[
+				"st",
+				"stoch"
+			],
+			[
+				"stoch",
+				"stochastique"
+			],
+			[
+				"FI",
+				"figsize"
+			],
+			[
+				"mom",
+				"momentum"
+			],
+			[
+				"fig",
+				"figsize"
+			],
+			[
+				"Cou",
+				"COURS_CLOTURE"
+			],
+			[
+				"fi",
+				"figsize"
+			],
+			[
+				"DF",
+				"df"
+			],
+			[
+				"MA",
+				"MACDsignal"
+			],
+			[
+				"ws",
+				"wsig"
+			],
+			[
+				"n",
+				"nv"
+			],
+			[
+				"min",
+				"min_periods"
+			],
+			[
+				"v",
+				"volume"
+			],
+			[
+				"RE",
+				"return"
+			],
+			[
+				"MOM",
+				"MOMsignal"
+			],
+			[
+				"w",
+				"wsig"
+			],
+			[
+				"b",
+				"BBUP"
+			],
+			[
+				"B",
+				"BBDOWN"
+			],
+			[
+				"bb",
+				"BBMID"
+			],
+			[
+				"macd",
+				"MACD"
+			],
+			[
+				"R",
+				"return"
+			],
+			[
+				"MME",
+				"MMECOURT"
+			],
+			[
+				"emp",
+				"employees"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"def",
+				"def\tFunction"
+			],
+			[
+				"cla",
+				"classmethod"
+			],
+			[
+				"em",
+				"emp_2"
+			],
+			[
+				"f",
+				"first"
+			],
+			[
+				"usr",
+				"user_cols"
+			],
+			[
+				"get",
+				"getText"
+			],
+			[
+				"per",
+				"period-name"
+			],
+			[
+				"fin",
+				"find"
+			],
+			[
+				"cl",
+				"class_"
+			],
+			[
+				"pe",
+				"prettify"
+			],
+			[
+				"seven",
+				"seven-day-forecast"
+			],
+			[
+				"find",
+				"find_all"
+			],
+			[
+				"pa",
+				"parser"
+			],
+			[
+				"Bea",
+				"BeautifulSoup"
+			],
+			[
+				"p",
+				"parsememcparseface"
+			],
+			[
+				"pirn",
+				"print"
+			],
+			[
+				"pl",
+				"plot"
+			],
+			[
+				"constructo",
+				"constructors"
+			],
+			[
+				"Mul",
+				"MultiIndex"
+			],
+			[
+				"ré",
+				"résultats"
+			],
+			[
+				"or",
+				"order"
+			],
+			[
+				"VA",
+				"values"
+			],
+			[
+				"ANI",
+				"animal"
+			],
+			[
+				"AN",
+				"animal"
+			],
+			[
+				"IN",
+				"INTO"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/pc/Desktop/startbootstrap-sb-admin-2-gh-pages/package-lock.json",
+		"/C/Users/pc/Desktop/startbootstrap-sb-admin-2-gh-pages/README.md",
+		"/C/Users/pc/Desktop/startbootstrap-sb-admin-2-gh-pages/.travis.yml",
+		"/C/Users/pc/Desktop/Stage d'application/BVCscrap/__init__.py",
+		"/C/Users/pc/Desktop/Stage d'application/BVCscrap/load.py",
+		"/C/Users/pc/Desktop/Stage d'application/BVCscrap/utils.py",
+		"/C/Users/pc/Anaconda3/Lib/site-packages/pandas/_version.py",
+		"/C/Users/pc/Anaconda3/Lib/site-packages/pandas/testing.py",
+		"/C/Users/pc/Anaconda3/Lib/site-packages/pandas/__init__.py",
+		"/C/Users/pc/Anaconda3/Lib/site-packages/pandas/_libs/window/__init__.py",
+		"/C/Users/pc/Anaconda3/Lib/site-packages/pandas/_libs/window/aggregations.cp37-win_amd64.pyd",
+		"/C/Users/pc/Downloads/thesis_without_pdfcode.tex",
+		"/C/Users/pc/Desktop/Stage d'application/BVCscrap/Notation.py",
+		"/D/Desktop/C++/les tableauZ.cpp",
+		"/C/Users/pc/Downloads/AMINE ANDAM.txt",
+		"/C/Users/pc/Downloads/réversion.txt",
+		"/C/Users/pc/Desktop/INSEA/Simulation/Tp3_Quest1 - Copie.cpp",
+		"/C/Users/pc/Desktop/INSEA/Simulation/Tp3_Quest1.cpp",
+		"/C/Users/pc/Downloads/MGAF1_Est_steadystate.m",
+		"/C/Users/pc/Downloads/MGAF1_Est.mod",
+		"/C/Users/pc/Desktop/INSEA/Simulation/TP/TP1_Quest1.c",
+		"/C/Users/pc/Desktop/INSEA/Simulation/TP/TP1_Quest2.c",
+		"/C/Users/pc/Desktop/INSEA/Simulation/TP/Tp2.cpp",
+		"/D/Desktop/C++/recap/premeir cour operation.cpp",
+		"/D/Desktop/C++/recap/les structure de controle.cpp",
+		"/D/Desktop/C++/recap/les fonction.cpp",
+		"/D/Desktop/C++/les pointeur.cpp",
+		"/D/Desktop/C++/les fichier.cpp",
+		"/D/Desktop/C++/Static variable(important).cpp",
+		"/C/Users/pc/Downloads/gslMatrix.cpp",
+		"/D/Desktop/C++/OOP 1  ObjectOrientedProgramminginC4thEdition.cpp",
+		"/D/Desktop/C++/programmation orienté objet Cpp.cpp",
+		"/D/Desktop/C++/Random.cpp",
+		"/C/Users/pc/Downloads/Project1.dev",
+		"/C/Users/pc/Desktop/ISL/note/notebook.py",
+		"/C/Users/pc/Desktop/ISL/Web scra.py",
+		"/C/Users/pc/Desktop/Stage d'application/BVCscrap/setup.py",
+		"/C/Users/pc/Desktop/Stage d'application/Library Python/Trading/Indicators.py",
+		"/C/Users/pc/Desktop/Stage d'application/Library Python/Trading/__init__.py",
+		"/D/Desktop/Python/python function with unknown number of arguments.py",
+		"/C/Users/pc/Downloads/iris.data",
+		"/C/Users/pc/Desktop/ISL/Projects/Ecommerce.csv",
+		"/C/Users/pc/Desktop/Stage d'application/Library Python/Trading/GraphSignal.py",
+		"/C/Users/pc/Desktop/téléchargement.csv",
+		"/C/Users/pc/Downloads/téléchargement.csv",
+		"/C/Users/pc/Downloads/iris.names",
+		"/C/Users/pc/Desktop/Stage d'application/Library Python/Trading/GraphIndicators.py",
+		"/C/Users/pc/Desktop/f.csv",
+		"/C/Users/pc/Desktop/ISL/Default.csv",
+		"/C/Users/pc/Desktop/Stage d'application/Library Python/Trading/utils.py",
+		"/C/Users/pc/Desktop/Stage d'application/Library Python/Trading/Signal.py",
+		"/C/Users/pc/Desktop/Stage d'application/Library Python/Trading/Performance.py",
+		"/C/Users/pc/Desktop/Stage d'application/Library Python/COde/AT.py",
+		"/C/Users/pc/Desktop/Stage d'application/Library Python/Trading/Indicateurs.py",
+		"/C/Users/pc/Desktop/ISL/nam/menu.py",
+		"/C/Users/pc/Desktop/ISL/nam/command_option.py",
+		"/C/Users/pc/Desktop/ISL/note/__init__.py",
+		"/C/Users/pc/Desktop/ISL/Boston.csv",
+		"/C/Users/pc/Desktop/ISL/note/__pycache__/notebook.cpython-37.pyc",
+		"/C/Users/pc/Desktop/ISL/note/__pycache__/__init__.cpython-37.pyc",
+		"/C/Users/pc/Desktop/Boston.csv",
+		"/C/Users/pc/Desktop/Credit.csv",
+		"/C/Users/pc/Desktop/Default.csv",
+		"/C/Users/pc/Desktop/Default.txt",
+		"/C/Users/pc/Desktop/Stage d'application/Library Python/at_v01.py",
+		"/C/Users/pc/Documents/SAS/production.csv",
+		"/C/Users/pc/Documents/SAS codes/contrat.sas7bdat",
+		"/C/Users/pc/Documents/SAS codes/coutt.sas7bdat",
+		"/C/Users/pc/Documents/SAS codes/essai.sas7bdat",
+		"/C/Users/pc/Documents/SAS codes/essai2.sas7bdat",
+		"/C/Users/pc/Documents/SAS codes/essai3.sas7bdat",
+		"/C/Users/pc/Documents/SAS codes/sinistre.sas7bdat",
+		"/C/Users/pc/Desktop/Stage d'application/Masi/technical indicators.py",
+		"/C/Users/pc/Desktop/Web scra.py",
+		"/C/Users/pc/Desktop/Stage d'application/Masi/Technical_Indicators.ipynb",
+		"/C/Users/pc/Desktop/Stage d'application/Library Python/AnalyseTechnique.py",
+		"/C/Users/pc/Desktop/Stage d'application/Library Python/__pycache__/AnalyseTechnique.cpython-37.pyc",
+		"/C/Users/pc/Desktop/pandas_review.py",
+		"/D/Desktop/Python/first cours of OOP with python.py",
+		"/C/Users/pc/Desktop/overview of OOP.py",
+		"/C/Users/pc/Desktop/Untitled-1.r",
+		"/C/Users/pc/AppData/Local/Temp/Rar$DRa0.092/fair4.xlsx",
+		"/D/Desktop/Stattistique/solotion de td 1 r.txt",
+		"/C/Users/pc/Downloads/contrat.csv",
+		"/C/Users/pc/AppData/Local/Temp/Rar$DRa0.718/Les effets du confinement sur le quotidien des étudiants de l'INSEA.csv",
+		"/C/Users/pc/AppData/Local/Temp/Rar$DRa0.231/data/AudioEvents.txt",
+		"/C/Users/pc/AppData/Local/Temp/Rar$DIa0.973/README.md",
+		"/C/Program Files/Microsoft Office/Office15/Configuration/card_security_terms_dict.txt",
+		"/C/Users/pc/AppData/Local/Temp/Rar$DIa0.038/CONTRIBUTING.md",
+		"/C/Users/pc/AppData/Local/Temp/Rar$DIa0.176/README.md",
+		"/C/Users/pc/Documents/R/nombresinistre3.csv",
+		"/C/Users/pc/Documents/R/TDTV8890.csv",
+		"/C/Users/pc/Documents/R/montantssinistre3.csv",
+		"/C/Users/pc/AppData/Local/Temp/Rar$DRa0.378/modelisation-distributions-sinistres-avec-r.pdf",
+		"/C/Users/pc/Documents/R/the.csv",
+		"/C/Users/pc/Documents/R/work_women.csv",
+		"/C/Users/pc/Documents/R/orange.csv",
+		"/C/Users/pc/AppData/Local/Temp/Rar$DRa0.051/analyse/python_analysis.py",
+		"/C/Users/pc/AppData/Local/Temp/Rar$DRa0.065/analyse/operations.csv",
+		"/C/Users/pc/AppData/Local/Temp/Rar$DRa0.245/tp_modelisation.r",
+		"/C/Users/pc/AppData/Local/Temp/Rar$DRa0.484/Activité 1/Activité_1.py",
+		"/C/Users/pc/Documents/R/les-arbres.csv",
+		"/C/Users/pc/AppData/Local/Temp/Rar$DRa0.320/Réalisez des modélisations de données performantes/functions.py",
+		"/D/Desktop/regression/ble",
+		"/D/Desktop/regression/ble explication",
+		"/D/Desktop/regression/maladie explication",
+		"/D/Desktop/regression/maladie",
+		"/D/Desktop/regression/ozonz explication",
+		"/D/Desktop/regression/ozone",
+		"/C/Users/pc/Downloads/temperatures.csv",
+		"/C/Users/pc/AppData/Local/Temp/Rar$DRa0.783/scikit-learn-videos-master/01_machine_learning_intro.ipynb",
+		"/D/Desktop/Python/tous sur le module de random.ipynb",
+		"/C/Users/pc/AppData/Local/Temp/Rar$DRa0.418/student-mat.csv",
+		"/C/Users/pc/Downloads/titanic3.xls",
+		"/C/Users/pc/Downloads/PREVOYANCE-ASSURANCENONVIE.xlsx",
+		"/C/Users/pc/Downloads/Data.xlsx",
+		"/D/Desktop/regression/VENTES.dta",
+		"/C/Users/pc/Downloads/1170_3155_fb_05072013 (1).xls",
+		"/C/Users/pc/Downloads/1170_3155_fb_05072013.xls",
+		"/C/Users/pc/Downloads/data.csv",
+		"/C/Users/pc/Downloads/MissingMigrants-Global-2019-03-29T18-36-07.csv",
+		"/C/Users/pc/Documents/R/nombresinistre2.csv",
+		"/C/Users/pc/AppData/Local/Temp/Rar$DRa0.270/devoir20octobre2019/nombresinistre/nombresinistre3.csv",
+		"/C/Users/pc/AppData/Local/Temp/Rar$DRa0.664/devoir20octobre2019/montantsisnitres/montantssinistre1.csv",
+		"/C/Users/pc/AppData/Local/Temp/Rar$DRa0.592/devoir20octobre2019/montantsisnitres/montantssinistre2.csv",
+		"/C/Users/pc/AppData/Local/Temp/Rar$DRa0.901/devoir20octobre2019/montantsisnitres/montantssinistre3.csv",
+		"/C/Users/pc/AppData/Local/Temp/Rar$DRa0.760/devoir20octobre2019/.DS_Store",
+		"/C/Users/pc/AppData/Local/Temp/Rar$DIa0.528/README.md"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\pc\\Desktop\\Python\\Missing data.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
