@@ -33,11 +33,11 @@ var myLineChart = new Chart(ctx, {
   type: 'line',
   data: {
     labels: [
-"22/08/2021",
-"23/08/2021",
-"24/08/2021",
-"25/08/2021",
-"26/08/2021"],
+"26/08/2021",
+"27/08/2021",
+"28/08/2021",
+"29/08/2021",
+"30/08/2021"]
     datasets: [{
       label: "Deaths",
       lineTension: 0.3,
@@ -55,8 +55,8 @@ var myLineChart = new Chart(ctx, {
 5,
 4,
 4,
-4,
-4
+3,
+3
 ],
     }],
   },
