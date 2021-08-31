@@ -32,12 +32,11 @@ var ctx = document.getElementById("myAreaChart2");
 var myLineChart = new Chart(ctx, {
   type: 'line',
   data: {
-    labels: [
-"26/08/2021",
-"27/08/2021",
-"2/08/2021",
-"29/08/2021",
-"30/08/2021"],
+    labels: ["31/08/2021",
+"01/09/2021",
+"02/09/2021",
+"03/09/2021",
+"04/09/2021"],
     datasets: [{
       label: "Deaths",
       lineTension: 0.3,
