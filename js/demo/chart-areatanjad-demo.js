@@ -32,11 +32,11 @@ var ctx = document.getElementById("myAreaChart2");
 var myLineChart = new Chart(ctx, {
   type: 'line',
   data: {
-    labels: ["31/08/2021",
-"01/09/2021",
-"02/09/2021",
-"03/09/2021",
-"04/09/2021"],
+    labels: ["08/09/2021",
+"09/09/2021",
+"10/09/2021",
+"11/09/2021",
+"12/09/2021"],
     datasets: [{
       label: "Deaths ",
       lineTension: 0.3,
@@ -50,9 +50,9 @@ var myLineChart = new Chart(ctx, {
       pointHoverBorderColor: "rgba(78, 115, 223, 1)",
       pointHitRadius: 10,
       pointBorderWidth: 2,
-      data: [12,
-8,
-9,
+      data: [9,
+12,
+10,
 10,
 7
 ],
